@@ -20,6 +20,10 @@ img {
   height: auto;
 }
 
+body {
+  background-color: var(--bg-color-white);
+}
+
 :root {
   --primary-color-text: #171717;
   --color-text-white: #ffffff;
@@ -30,16 +34,10 @@ img {
   --heading-fs: 28px;
   --regular-fs: 16px;
 }
-
-/* Header */
-
-body {
-  background-color: var(--bg-color-white);
-}
-
+/* header */
 header {
   background-color: var(--bg-color-blue);
-  height: 16.52vh;
+  height: 1080px;
 }
 
 .header__content {
