@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Helvetica Bold";
+  src: url("../font/HELVETICA-NEUE-LT-GEO-75-BOLD.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "Helvetica Light";
+  src: url("../font/HELVETICANEUELT-GEO-45LIGHTS.TTF") format("truetype");
+}
